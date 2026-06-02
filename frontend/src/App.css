@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e5e7eb;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+input {
+  outline: none;
+} 
